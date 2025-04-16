@@ -7,3 +7,5 @@ HOW TO USE
     npm i
 
 success accounts moved to success.txt
+
+![image](https://github.com/user-attachments/assets/2927bd29-4958-47e6-aba7-1f1dd93b9c7c)
